@@ -1,7 +1,10 @@
 # linuxlike
 
 ```
-cd dist; python linuxlike.py
+Server running at http://0e1.kr:10000/
+Read /flag.txt!
+
+cd dist; python almost_linux.py
 ```
 
-Read `/flag.txt`!
+![screen](images/screen.png)
