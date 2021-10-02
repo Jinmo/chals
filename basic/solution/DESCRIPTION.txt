@@ -1,0 +1,6 @@
+Challenge name: memo-or-whatever
+
+Challenge description:
+admin's memo has the flag!
+
+http://<사이트주소>

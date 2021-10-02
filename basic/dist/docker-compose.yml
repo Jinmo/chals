@@ -1,0 +1,16 @@
+version: '3'
+services:
+  backend:
+    build: memo
+    volumes:
+      - ./flag:/flag
+    environment:
+      # TODO; change it to the challenge URL
+      - HOST=http://192.168.47.128:8000/
+
+  frontend:
+    image: nginx:alpine
+    ports:
+      - 8000:80
+    volumes:
+      - ./nginx:/etc/nginx/conf.d

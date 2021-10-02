@@ -1,0 +1,7 @@
+.list a {
+	display: block;
+}
+
+input, textarea {
+	width: 300px;
+}
