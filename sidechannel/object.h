@@ -1,0 +1,5 @@
+enum OBJECT_TYPES {
+	STRING,
+	LIST,
+	INTEGER
+}

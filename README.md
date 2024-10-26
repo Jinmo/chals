@@ -13,3 +13,4 @@
 - [emscripten](emscripten) (cyber guardians CTF? re, basic emscripten crackme)
 - [babydbus](babydbus), [babydbus_revenge](babydbus_revenge) ([Korea University CC CTF](https://dreamhack.io/ctf/22))
 - [steps](steps) ([Korea University CC CTF](https://dreamhack.io/ctf/22))
+- [sidechannel](sidechannel) (HackingCamp CTF 2019 / not opened due to server issues)
