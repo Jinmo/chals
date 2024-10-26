@@ -1,0 +1,11 @@
+재밌는 디버스 탐험: 더 강해져 돌아왔다
+
+D-Bus 서버를 공격하여 /flag2.txt를 읽어오세요!
+babydbus를 먼저 풀고 오시면 좋습니다.
+
+ssh user@서버IP(바꿔주세요) -p2223 # password: user
+
+참조 링크:
+
+- https://book.hacktricks.xyz/linux-unix/privilege-escalation/d-bus-enumeration-and-command-injection-privilege-escalation
+- https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/

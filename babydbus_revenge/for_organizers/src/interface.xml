@@ -1,0 +1,19 @@
+<node>
+  <!-- org.babydbus.MyServer:
+       @short_description: My first dbus server
+       @since: 1.00
+
+       Hello, world!
+    -->
+  <interface name="org.babydbus.MyServer">
+    <!--
+        Report: Report me that you can connect d-bus and call method.
+        @reporter: The id of the reporter.
+        @since: 1.00
+      -->
+    <method name="Report">
+      <arg direction="in" type="s" name="reporter"/>
+      <arg direction="out" type="s" name="response"/>
+    </method>
+  </interface>
+</node>

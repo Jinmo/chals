@@ -1,0 +1,11 @@
+재밌는 디버스 탐험
+
+D-Bus IPC 프로토콜로 MyServer -> MyObject의 GetFlag 함수를 호출해 /flag.txt를 읽어보세요!
+(dbus-send, busctl 클라이언트를 쓰시면 편합니다)
+
+ssh user@서버IP(바꿔주세요) -p2222 # password: user
+
+참조 링크:
+
+- https://book.hacktricks.xyz/linux-unix/privilege-escalation/d-bus-enumeration-and-command-injection-privilege-escalation
+- https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/

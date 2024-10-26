@@ -1,0 +1,21 @@
+<node>
+  <!-- org.babydbus.MyServer:
+       @short_description: My first dbus server
+       @since: 1.00
+
+       Hello, world!
+    -->
+  <interface name="org.babydbus.MyServer">
+    <!--
+        GetFlag:
+        @message: Say a warm hello to me!
+        @since: 1.00
+
+        Get flag from the server.
+      -->
+    <method name="GetFlag">
+      <arg direction="in" type="s" name="message"/>
+      <arg direction="out" type="s" name="response"/>
+    </method>
+  </interface>
+</node>
