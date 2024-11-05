@@ -1,5 +1,9 @@
 # Challenges
 
+# 2024
+
+- [Unfair NIM](https://dreamhack.io/wargame/challenges/1154) ([Dreamhack CTF Season 5 Round \#5](https://dreamhack.io/ctf/480))
+
 # 2021
 
 - [babydbus](babydbus), [babydbus_revenge](babydbus_revenge) ([Korea University CC CTF](https://dreamhack.io/ctf/22))
