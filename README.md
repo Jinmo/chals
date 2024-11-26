@@ -13,6 +13,7 @@
 
 - [linuxlike](linuxlike) (WSL2 bug)
 - [sidechannel](sidechannel) (HackingCamp CTF 2019 / not opened due to server issues)
+- [wasm](wasm) (CodeEngn CTF 2019, re)
 
 # 2017~2018
 
